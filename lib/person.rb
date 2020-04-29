@@ -33,7 +33,4 @@ class Record
   
 end 
 
-beasty_boys = Record.new
-beasty_boys.genre = "Rap and R&B"
-beasty_boys.gerne 
 
